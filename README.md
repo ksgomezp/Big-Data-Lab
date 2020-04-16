@@ -18,6 +18,7 @@ Laboratorio Big Data TET
 2. Listado de acciones que siempre han subido o se mantienen estables: **acciones-estables.py**
 3. DIA NEGRO: Saque el día en el que la mayor cantidad de acciones tienen el menor valor de acción (DESPLOME), suponga una inflación independiente del tiempo: **dia-negro.py**
 
-* Para correr los programas se puede hacer siguiendo el comando desde la linea de comandos: **python cualquiera.py dataempresas.csv**
+* Para correr los programas se puede hacer siguiendo el comando desde la linea de comandos: 
+* $ **python cualquiera.py dataempresas.csv**
 
 
