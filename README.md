@@ -1,5 +1,6 @@
 # Big-Data-Lab
-Laboratorio Big Data TET
+* Laboratorio Big Data TET
+* Kevyn Santiago Gómez Patiño
 
 ## Se tiene un conjunto de acciones de la bolsa, en la cual se reporta a diario el valor promedio por acción.
 
