@@ -28,7 +28,8 @@ class MRBlackDay(MRJob):
     def reducer_values(self, minDate, values):
  
         yield "date", (minDate, sum(values))
-    
+
+    #calculating the blackday
     def reducer_blackDay(self, date, values):
         blackDay, actualValue = next(values)
         for date, value in values:
